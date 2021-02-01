@@ -19,6 +19,7 @@
   "homepage": "https://github.com/TMehulic/YelpCamp#readme",
   "dependencies": {
     "ejs": "^3.1.5",
+    "ejs-mate": "^3.0.0",
     "express": "^4.17.1",
     "method-override": "^3.0.0",
     "mongoose": "^5.11.13"
